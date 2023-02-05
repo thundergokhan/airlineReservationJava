@@ -1,0 +1,5 @@
+package com.airline.reservationsystem.repository;
+
+public interface FlightRepository {
+
+}

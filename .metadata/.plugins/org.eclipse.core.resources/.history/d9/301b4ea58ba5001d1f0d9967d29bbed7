@@ -1,0 +1,5 @@
+package com.airline.reservationsystem.model;
+
+public class Flight {
+
+}
